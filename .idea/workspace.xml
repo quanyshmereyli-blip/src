@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd6cc2c5-4c5b-4443-addc-39435613e02d" name="Changes" comment="Add MyList interface">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Desktop/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Desktop/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Desktop/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Desktop/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Desktop/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Desktop/MyArrayList$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Desktop/MyArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Desktop/MyLinkedList$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Desktop/MyLinkedList$MyNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Desktop/MyLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Desktop/MyList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Desktop/MyMinHeap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Desktop/MyQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Desktop/MyStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Desktop/desktop.ini" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="HP &lt;quanyshmereyli@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "quanyshmereyli-blip"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/quanyshmereyli-blip/src.git",
+    "accountId": "aaffda65-61e1-45c1-be0c-eef301b38233"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3CGMemgh13bRKOLLAADRlghNyOo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HP/Desktop/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.32098.37" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd6cc2c5-4c5b-4443-addc-39435613e02d" name="Changes" comment="" />
+      <created>1776007550385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776007550385</updated>
+      <workItem from="1776007551569" duration="596000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add MyList interface">
+      <option name="closed" value="true" />
+      <created>1776007874204</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776007874204</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add MyList interface">
+      <option name="closed" value="true" />
+      <created>1776007897453</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776007897453</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add MyList interface">
+      <option name="closed" value="true" />
+      <created>1776007920876</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1776007920876</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add MyList interface">
+      <option name="closed" value="true" />
+      <created>1776007987464</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1776007987464</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add MyList interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add MyList interface" />
+  </component>
+</project>
