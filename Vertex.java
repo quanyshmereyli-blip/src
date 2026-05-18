@@ -25,5 +25,5 @@ public class Vertex<V> {
     @Override
     public String toString() {
         return "Vertex(" + data + ")";
-    }
+   }
 }
